@@ -20,7 +20,7 @@
 
 <!-- Introduction with personal details -->
 <pre style="font-family: monospace; background-color: black; color: green; padding: 10px;">
-- 🔭 I’m currently studying Computer Science <a href="https://mrswikar.great-site.net/?i=1" style="color: lightgreen;">[Personal Website]</a>
+- 🔭 I’m currently studying Computer Science <a href="https://aakashsapkota.great-site.net" style="color: lightgreen;">[Personal Website]</a>
 - 🌱 I’m currently learning <strong>Python and Node.js etc</strong>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/aakashsapkotaa?tab=repositories" style="color: lightgreen;">[GitHub Repositories]</a>
 - 💬 Ask me about <strong>Any Tech Related Questions</strong>
