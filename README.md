@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
 <pre style="font-family: monospace; background-color: black; color: #00ff00; padding: 15px; border-radius: 8px;">
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m learning Java, Spring Boot, MongoDB, Python, Node.js
